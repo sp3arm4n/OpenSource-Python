@@ -1,0 +1,1 @@
+q = [r**2 for r in [10**i for i in range(5)]]
