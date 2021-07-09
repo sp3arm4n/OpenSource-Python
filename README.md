@@ -1,1 +1,3 @@
-# OpenSource-Python
+# 오픈소스SW활용
+
+### 2019년 3학년 1학기
